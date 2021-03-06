@@ -2,4 +2,4 @@
  Primeiro repositorio versionado
 
 Essa linha eu alterei diretamente no site!
-Essa linha eu alterei no Vscode!
+Essa outra linha eu alterei enquanto praticava
